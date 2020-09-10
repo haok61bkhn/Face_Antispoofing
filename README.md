@@ -8,7 +8,7 @@ model :
   put into weights
   and 
   https://drive.google.com/file/d/1CxjSpFDseRqd0J0jJzHcqkQgHhD-sizZ/view?usp=sharing
-  pust into retinaface_pytorch
+  pus into retinaface_pytorch
 
 run
     ```python  anti_track.py --v rest_link  
